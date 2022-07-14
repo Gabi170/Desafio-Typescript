@@ -22,6 +22,8 @@ let pessoa4 = {
     profissao = "padeiro"
 }*/
 
+//Resposta
+
 enum emprego{atriz, padeiro}
 
 type humano={nome:string, idade:number, profissao:emprego}
