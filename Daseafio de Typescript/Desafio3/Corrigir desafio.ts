@@ -27,6 +27,8 @@ botaoLimpar.addEventListener('click', function () {
 
  */
 
+//Resposta
+
 let botaoAtualizar = document.getElementById('atualizar-saldo');
 let botaoLimpar = document.getElementById('limpar-saldo')!;
 let soma = document.getElementById('soma')! as HTMLInputElement;
